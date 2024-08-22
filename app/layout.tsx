@@ -6,7 +6,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "cfa calc",
+  title: "mcd calculator",
   description: "A calculator to see what's the most optimal way to spend your points.",
 };
 
