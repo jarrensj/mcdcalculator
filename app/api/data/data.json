@@ -1,62 +1,92 @@
 [ 
   {
-    "item": "small waffle fries",
-    "price": 2.59,
-    "points": 300
-  },
-  {
-    "item": "medium waffle fries",
-    "price": 2.99,
-    "points": 400
-  },
-  {
-    "item": "large waffle fries",
+    "item": "cheeseburger",
     "price": 3.39,
-    "points": 500
+    "points": 1500
+  },
+  {
+    "item": "mcchicken",
+    "price": 3.89,
+    "points": 1500
   },
   {
     "item": "hash browns",
-    "price": 1.89,
-    "points": 300
+    "price": 2.39,
+    "points": 1500
   },
   {
-    "item": "2 ct chicken strips",
-    "price": 4.19,
-    "points": 600
+    "item": "vanila cone",
+    "price": 3.19,
+    "points": 1500
   },
   {
-    "item": "3 ct chicken strips",
-    "price": 5.99,
-    "points": 900
+    "item": "sausage burrito",
+    "price": 3.59,
+    "points": 3000
   },
   {
-    "item": "4 ct chicken strips",
-    "price": 7.85,
-    "points": 1200
+    "item": "medium fries",
+    "price": 4.49,
+    "points": 3000
   },
   {
-    "item": "deluxe sandwich",
-    "price": 6.55,
-    "points": 1000
+    "item": "6 piece nuggets",
+    "price": 4.79,
+    "points": 3000
   },
   {
-    "item": "spicy deluxe sandwich",
-    "price": 6.85,
-    "points": 1000
+    "item": "large iced coffee",
+    "price": 3.69,
+    "points": 3000
   },
   {
-    "item": "5 ct nuggets",
-    "price": 3.75,
-    "points": 600
+    "item": "sausage mcmuffin with egg",
+    "price": 5.29,
+    "points": 4500
   },
   {
-    "item": "8 ct nuggets",
-    "price": 5.99,
-    "points": 900
+    "item": "large frappe (mocha or caramel)",
+    "price": 5.69,
+    "points": 4500
   },
   {
-    "item": "12 ct nuggets",
-    "price": 8.15,
-    "points": 1200
+    "item": "large frappe (oreo)",
+    "price": 6.19,
+    "points": 4500
+  },
+  {
+    "item": "large fries",
+    "price": 5.49,
+    "points": 4500
+  },
+  {
+    "item": "filet-o-fish",
+    "price": 5.49,
+    "points": 4500
+  },
+  {
+    "item": "quarter pounder with cheese",
+    "price": 6.89,
+    "points": 6000
+  },
+  {
+    "item": "big mac",
+    "price": 6.69,
+    "points": 6000
+  },
+  {
+    "item": "bacon egg cheese biscuit",
+    "price": 5.49,
+    "points": 6000
+  },
+  {
+    "item": "happy meal (hamburger)",
+    "price": 4.89,
+    "points": 6000
+  },
+  {
+    "item": "happy meal (4 piece nuggets)",
+    "price": 6.49,
+    "points": 6000
   }
 ]
