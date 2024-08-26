@@ -22,6 +22,8 @@ export default function Home() {
         <p className="text-sm mt-8">
           made by <Link href="https://jarrensj.com" className="text-blue-500 hover:underline" target="_blank">
             kwaji 🍣
+          </Link> and <Link href="https://x.com/CryptoMaoZeLong" className="text-blue-500 hover:underline" target="_blank">
+            maozelong 🐧
           </Link>
         </p>
       </footer>
