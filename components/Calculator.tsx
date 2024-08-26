@@ -47,7 +47,7 @@ const Calculator: React.FC = () => {
   return (
     <div className="flex flex-col items-center min-h-screen bg-gradient-to-b from-yellow-100 to-red-100">
       <header className="w-full bg-red-600 text-white p-4 text-center shadow-lg">
-        <h1 className="text-4xl font-bold">McDonald's Rewards</h1>
+        <h1 className="text-4xl font-bold">McDonald&apos;s Rewards</h1>
         <p className="text-lg">Spend Smart, Save More</p>
       </header>
 
