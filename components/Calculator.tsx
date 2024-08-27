@@ -36,12 +36,12 @@ const Calculator: React.FC = () => {
   }, []);
 
   const getDealLabel = (tier: number): string => {
-    if (tier >= 0.0025) return "Best Deals";
-    if (tier >= 0.0020) return "Amazing Deals";
-    if (tier >= 0.0015) return "Great Deals";
-    if (tier >= 0.0010) return "Good Deals";
-    if (tier >= 0.0005) return "Bad Deals";
-    return "Bad Deals";
+    if (tier >= 0.0025) return "Top Tier Treats";
+    if (tier >= 0.0020) return "Premium Picks";
+    if (tier >= 0.0015) return "Great Grabs";
+    if (tier >= 0.0010) return "Solid Savings";
+    if (tier >= 0.0005) return "Everyday Extras";
+    return "Standard Selections";
   };
 
   return (
